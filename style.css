@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 70px;
+    background-color: #eeeeee !important;
+}
+.reg{
+    border-radius: 5px !important;
+    background-color: rgb(24, 189, 189) !important ;
+}
+.navbar{
+    background-color: teal !important;
+}
